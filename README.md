@@ -3,7 +3,6 @@
 
 
 
-[![MasterHead]([https://media-exp1.licdn.com/dms/image/C5616AQHJwtEe4iIMsA/profile-displaybackgroundimage-shrink_350_1400/0/1651058681775?e=1672272000&v=beta&t=uigIOAqRPKchp4hnCziyYekJAjTbQO6GKJzu-aUv8jM](https://media.licdn.com/dms/image/C5616AQHJwtEe4iIMsA/profile-displaybackgroundimage-shrink_350_1400/0/1651058681775?e=1685577600&v=beta&t=iYFh-cd-f3W_MLAbZmRTeOavhTnIKRF5u0IbasihQVY))]()
 <h1 align="center">Hi 👋, I'm Truong</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
